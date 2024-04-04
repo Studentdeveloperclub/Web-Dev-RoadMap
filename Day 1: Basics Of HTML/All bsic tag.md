@@ -2,17 +2,17 @@
 
 ## Resources
 
-### Syntax of HTML 🔑 
+### Syntax of HTML 🔑
 
 ![Syntax of HTML Element and Attribute](/Source/Syntax.png)
 
-#### Read More 
+#### Read More
 
-[HTML Element](https://www.w3schools.com/html/html_elements.asp) 
+[HTML Element](https://www.w3schools.com/html/html_elements.asp)
 
 [HTML Attribute](https://www.w3schools.com/html/html_attributes.asp)
 
-### Text 
+### Text
 
 [Heading Tags](https://www.w3schools.com/html/html_headings.asp)
 
@@ -49,6 +49,12 @@
 [classes](https://www.w3schools.com/html/html_classes.asp)
 
 [id](https://www.w3schools.com/html/html_id.asp)
+
+### Forms 🔑
+
+[Forms](https://www.w3schools.com/html/html_forms.asp)
+
+>Learn all concepts Attribute, Elemetns, input Types, input Attributes, Form Attributes
 
 ### Semantic 🔑
 
