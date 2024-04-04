@@ -8,7 +8,7 @@ Step 1: Click On Extension From Lefside `Activity Bar`.
 
 ![Extension Icon in Activity Bar](/Source/Extension.png)
 
-Step 2 : Copy each extension name below, one by one, and install it
+Step 2 : Copy each extension name below search, one by one, and install it
 
 ### Recommanded Names
 
