@@ -10,6 +10,8 @@ IDE Installer : <https://code.visualstudio.com/>
 
 Press `Ctrl + ,` to open setting and search `auto save` and set `after delay`.
 
+![how to set autosave in vscode](/Source/auto-save.png)
+
 ### Setting 2 : Debug Clear Before Re-using
 
 Press `Ctrl + ,` to open setting and search `Debug : clear before reusing` checked seeting.
