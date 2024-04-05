@@ -1,8 +1,8 @@
-# All Basic tags
+# 🏗️ All Basic HTML tags
 
-## Resources
+## 🔗 Resources
 
-### Syntax of HTML 🔑
+### 🔑 Syntax of HTML
 
 ![Syntax of HTML Element and Attribute](/Source/Syntax.png)
 
@@ -28,21 +28,21 @@
 
 [Images](https://www.w3schools.com/html/html_images.asp)
 
-### Window Favicon and Title 🔑
+### 🔑 Window Favicon and Title
 
 [Favicon](https://www.w3schools.com/html/html_favicon.asp)
 
 [Title](https://www.w3schools.com/html/html_page_title.asp)
 
-### List 🔑
+### 🔑 List
 
 [List](https://www.w3schools.com/html/html_lists.asp)
 
-### Block & Inline Elements 🔑
+### 🔑 Block & Inline Elements
 
 [Block & Inline](https://www.w3schools.com/html/html_blocks.asp)
 
-### Container & Attribute 🔑
+### 🔑 Container & Attribute
 
 [Div](https://www.w3schools.com/html/html_div.asp)
 
@@ -50,12 +50,12 @@
 
 [id](https://www.w3schools.com/html/html_id.asp)
 
-### Forms 🔑
+### 🔑 Forms
 
 [Forms](https://www.w3schools.com/html/html_forms.asp)
 
 >Learn all concepts Attribute, Elemetns, input Types, input Attributes, Form Attributes
 
-### Semantic 🔑
+### 🔑 Semantic
 
 [semantic](https://www.w3schools.com/html/html5_semantic_elements.asp)
