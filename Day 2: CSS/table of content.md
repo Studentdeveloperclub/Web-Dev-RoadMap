@@ -17,7 +17,7 @@
 
 ### Make Navigation bar Using Above Concepts 
 
-![Navigation Bar That Cover Float & Box Model Concepts](/Source/Navigation-Bar-Practice-One.png)
+![Navigation Bar That Cover Float & Box Model Concepts](/.Source/Navigation-Bar-Practice-One.png)
 
 ### Profile Card 
 

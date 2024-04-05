@@ -3,7 +3,7 @@
 ## 🎯 Table of Contents
 
 
-![Syntax of HTML Element and Attribute](/Source/Syntax.png)
+![Syntax of HTML Element and Attribute](/.Source/Syntax.png)
 
 ## 🔗 Resources
 

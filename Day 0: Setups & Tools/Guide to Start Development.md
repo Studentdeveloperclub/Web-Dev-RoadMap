@@ -10,7 +10,7 @@ IDE Installer : <https://code.visualstudio.com/>
 
 Press `Ctrl + ,` to open setting and search `auto save` and set `after delay`.
 
-![how to set autosave in vscode](/Source/auto-save.png)
+![how to set autosave in vscode](/.Source/auto-save.png)
 
 ### Setting 2 : Debug Clear Before Re-using
 
@@ -26,7 +26,7 @@ Press `Ctrl + ,` to open setting and search `Editor: Enable Preview` checked see
 
 Step 1: Click On Extension From Lefside `Activity Bar`.
 
-![Extension Icon in Activity Bar](/Source/Extension.png)
+![Extension Icon in Activity Bar](/.Source/Extension.png)
 
 Step 2 : Copy each extension name below search, one by one, and install it
 
