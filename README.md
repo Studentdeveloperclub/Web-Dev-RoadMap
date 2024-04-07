@@ -1,10 +1,12 @@
 <br>
 ## Common Resources
+
 - [W3Schools](https://www.w3schools.com/) 📚
 - [Documentation (MDN DOCS)](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML) 📖
 - [Code With Harry](https://youtube.com/playlist?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&si=7VeHmaWFR4hHxSPW) 🎥
 
 ## Table of Contents
+
 1. [Day 0: Setups & Tools](#day-0-setups--tools)
 2. [Day 1: Basics Of HTML](#day-1-basics-of-html)
 3. [Day 2: Introduction to CSS](#day-2-introduction-to-css)
