@@ -9,13 +9,10 @@
 
 ## ✅ Practice
 
-### Make Navigation bar Using Above Concepts
-
-![Calculator using flexbox or grid or both](/.Source/flexbox-grid-calculator.png)
 > make only design.
 
-### Book Stoner
+### Make Calculator Using Above Concepts
 
-![Book-stoner-header](/.Source/bookstoner-header.png)
+![Calculator using flexbox or grid or both](/.Source/flexbox-grid-calculator.png)
 
-![Book-stoner-footer](/.Source/bookstoner.png)
+> **Grid Shift to Day 4**
