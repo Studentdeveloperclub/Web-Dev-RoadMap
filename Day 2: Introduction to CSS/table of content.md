@@ -8,4 +8,3 @@
 |-|[Syntax](https://www.w3schools.com/css/css_syntax.asp)|Cover in introduction|Cover in introduction|
 |-|[How to add](https://www.w3schools.com/css/css_howto.asp)|[How to add](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started)|[How to add](https://www.youtube.com/watch?v=-XwZpYIyCEA&list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&index=15&ab_channel=CodeWithHarry)|
 |🔑|[font-family](https://www.w3schools.com/css/css_font.asp)|[font-family](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text)|[font-family](https://youtu.be/aFicd4-YTfo?si=0hk9BxA3wa1qWbXO)|
-
