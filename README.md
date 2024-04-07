@@ -7,7 +7,7 @@
 
 ## Table of Contents
 
-1. [Day 0: Setups & Tools](./Day%200%20Setups%20%26%20Tools/))
+1. [Day 0: Setups & Tools](./Day 0: Setups & Tools/)
 2. [Day 1: Basics Of HTML](#day-1:-basics-of-html)
 3. [Day 2: Introduction to CSS](#day-2:-introduction-to-css)
 4. [Day 3: CSS](#day-3:-css)
