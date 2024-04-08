@@ -37,7 +37,7 @@ Each folder contains a table of contents file where topics are listed sequential
 We offer three main sources of learning:
 
 **For Beginners:** Dive into video tutorials for a more intuitive grasp of concepts. If you have a mentor, they might supplement these tutorials with insights gained from their own experiences.
-> we followe CodeWithHarry Youtube channel as mentor
+> we follow CodeWithHarry Youtube channel as mentor
 
 **For Intermediates:** Get into the habit of reading documentation. Not everything is covered in tutorials, but technologies are well-documented, providing step-by-step instructions on usage. Familiarize yourself with documentation to broaden your understanding.
 > we follow w3 school as intermediate documentation beacuse it is easy to understand 
